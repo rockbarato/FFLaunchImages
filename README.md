@@ -8,7 +8,5 @@ FFLaunchImages is a Sketch Template containing all the splashes you need for you
 Feel free to share. 
 
 ## LICENSE
-FFLaunchImages is licensed under the [WTFPL (Do What the Fuck You Want to Public License)](http://www.wtfpl.net/about/). See LICENSE file for more information.
-
-[![WTFPL License](http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-2.png)](http://www.wtfpl.net/about/)
+FFLaunchImages is available under the [MIT](http://opensource.org/licenses/MIT) license. See the LICENSE file for more info.
 
