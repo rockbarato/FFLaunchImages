@@ -7,6 +7,8 @@ FFLaunchImages is a Sketch Template containing all the splashes you need for you
 
 Feel free to share. 
 
+Also you can download from [SketchAppSources](http://www.sketchappsources.com/free-source/1122-ios-splash-launcher-template-sketch-freebie-resource.html)
+
 ## LICENSE
 FFLaunchImages is available under the [MIT](http://opensource.org/licenses/MIT) license. See the LICENSE file for more info.
 
