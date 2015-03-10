@@ -5,9 +5,9 @@ FFLaunchImages - iOS Splash Template
 
 FFLaunchImages is a Sketch Template containing all the splashes you need for your *Next Killer iOS App*. The template also has Splashes for both iPhone and iPad devices. Portrait and Landscape modes too!
 
-Feel free to share. 
+Also you can download from [SketchAppSources](http://www.sketchappsources.com/free-source/1122-ios-splash-launcher-template-sketch-freebie-resource.html).
 
-Also you can download from [SketchAppSources](http://www.sketchappsources.com/free-source/1122-ios-splash-launcher-template-sketch-freebie-resource.html)
+Feel free to share. 
 
 ## LICENSE
 FFLaunchImages is available under the [MIT](http://opensource.org/licenses/MIT) license. See the LICENSE file for more info.
